@@ -10,6 +10,8 @@
     
 "Subject" - Individual subject participating in the activity 
 
+##Rest of the columns respresnet average of the values for an activity and a subject
+
 "tBodyAcc-mean()-X"
 "tBodyAcc-mean()-Y"
 "tBodyAcc-mean()-Z"
